@@ -1,0 +1,12 @@
+D:\c#练习项目\HelloEnum\HelloEnum\bin\Debug\netcoreapp3.0\HelloEnum.exe
+D:\c#练习项目\HelloEnum\HelloEnum\bin\Debug\netcoreapp3.0\HelloEnum.deps.json
+D:\c#练习项目\HelloEnum\HelloEnum\bin\Debug\netcoreapp3.0\HelloEnum.runtimeconfig.json
+D:\c#练习项目\HelloEnum\HelloEnum\bin\Debug\netcoreapp3.0\HelloEnum.runtimeconfig.dev.json
+D:\c#练习项目\HelloEnum\HelloEnum\bin\Debug\netcoreapp3.0\HelloEnum.dll
+D:\c#练习项目\HelloEnum\HelloEnum\bin\Debug\netcoreapp3.0\HelloEnum.pdb
+D:\c#练习项目\HelloEnum\HelloEnum\obj\Debug\netcoreapp3.0\HelloEnum.csproj.AssemblyReference.cache
+D:\c#练习项目\HelloEnum\HelloEnum\obj\Debug\netcoreapp3.0\HelloEnum.csproj.CoreCompileInputs.cache
+D:\c#练习项目\HelloEnum\HelloEnum\obj\Debug\netcoreapp3.0\HelloEnum.AssemblyInfoInputs.cache
+D:\c#练习项目\HelloEnum\HelloEnum\obj\Debug\netcoreapp3.0\HelloEnum.AssemblyInfo.cs
+D:\c#练习项目\HelloEnum\HelloEnum\obj\Debug\netcoreapp3.0\HelloEnum.dll
+D:\c#练习项目\HelloEnum\HelloEnum\obj\Debug\netcoreapp3.0\HelloEnum.pdb
